@@ -1,2 +1,2 @@
-# css
-Some projects with HTML and CSS only.
+# Moving Taxi
+Project made using only CSS and HTML.
